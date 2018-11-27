@@ -1,4 +1,6 @@
-package com.oscarok;
+package com.oscarok.CarComponents;
+
+import com.oscarok.FrogComponents.Frog;
 
 import java.awt.*;
 import java.util.*;

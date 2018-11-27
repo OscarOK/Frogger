@@ -1,5 +1,7 @@
 package com.oscarok;
 
+import com.oscarok.FrogComponents.FroggerComponent;
+
 import javax.swing.*;
 import java.awt.*;
 
@@ -35,8 +37,6 @@ public class PlayFrogger extends JFrame {
         pack();
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setVisible(true);
-        
-         lab1.setLocation(75,40);
     }
 
     public static void main(String[] args) {

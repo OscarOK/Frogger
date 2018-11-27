@@ -1,4 +1,6 @@
-package com.oscarok;
+package com.oscarok.FrogComponents;
+
+import com.oscarok.PlayFrogger;
 
 import java.awt.*;
 import java.util.prefs.*;

@@ -1,4 +1,4 @@
-package com.oscarok;
+package com.oscarok.FrogComponents;
 
 public enum FroggerState
 {

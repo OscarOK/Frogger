@@ -1,6 +1,6 @@
 package com.oscarok.Command;
 
-import com.oscarok.Frog;
+import com.oscarok.FrogComponents.Frog;
 
 public class MoveLeft implements Command {
     private Frog frog;
